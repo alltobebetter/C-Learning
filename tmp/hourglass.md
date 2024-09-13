@@ -84,12 +84,22 @@ int main() {
 }
 ```
 
+## 输出示例
+
+```
+---*---
+ *****
+  ***
+   *
+   -
+  ---
+ -----
+-******
+```
+
 ## 视频演示
 
-
-<video width="320" height="240" controls>
-    <source src="hourglass.mp4" type="video/mp4">
-</video>
+[点击代码运行演示](https://ex.dreamor.top/tmp/hourglass.mp4)
 
 
 ## 提示
